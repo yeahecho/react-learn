@@ -65,8 +65,8 @@ class App extends Component {
         {/*<Greeter salutation="Hello, world" /> */}
         {/*<ContactsApp contacts={contacts} />*/}
         {/*<ContactsAppContainer />*/}
-        {<KanbanBoardContainer />}
-        {/*<TodoList />*/}
+        {/*<KanbanBoardContainer />*/}
+        {<TodoList />}
       </div>
     );
   }
