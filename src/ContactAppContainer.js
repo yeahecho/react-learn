@@ -150,4 +150,5 @@ ContactItem.propTypes = {
 };
 
 //You now render ContactAppContainer, instead of ContactsApp
-render(<ContactsAppContainer />, document.getElementById('root'));
+// render(<ContactsAppContainer />, document.getElementById('root'));
+export default ContactsAppContainer;
